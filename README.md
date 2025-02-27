@@ -16,7 +16,7 @@
 ## How to install
 
 1. _Terminal.app_ > Settings Tab
-2. Click "Gear" icon
+2. Click the 3 dots in a circle icon (bottom left)
 3. Click "Import..."
 4. Select the ayu-Mirage.terminal file
 5. Click "Default"
